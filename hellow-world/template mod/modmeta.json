@@ -1,4 +1,5 @@
 {
+	"Version":"0.2.2",
 	"TileMeta": {
 		"name":"fortnite_block",
 		"group":"",
@@ -6,7 +7,7 @@
 		"textureRecipes":"",
 		"mapColor":"9d4dbb",
 		"canCavesCarve":"false"
-	}
+	},
 	"WorldGen": {
 		"ore": {
 			"enabled":"true",
