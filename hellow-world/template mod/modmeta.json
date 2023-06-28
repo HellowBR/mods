@@ -113,28 +113,28 @@
                             ],
                             "blob": [
                                 {
-                                    "enabled": "false"
+                                    "enabled": "true"
                                 },
                                 {
-                                    "sizeMin": ""
+                                    "sizeMin": "2"
                                 },
                                 {
-                                    "sizeMax": ""
+                                    "sizeMax": "4"
                                 },
                                 {
-                                    "travelMin": ""
+                                    "travelMin": "2"
                                 },
                                 {
-                                    "travelMax": ""
+                                    "travelMax": "5"
                                 },
                                 {
-                                    "yMin": ""
+                                    "yMin": "7"
                                 },
                                 {
-                                    "yMax": ""
+                                    "yMax": "120"
                                 },
                                 {
-                                    "chance": ""
+                                    "chance": "60"
                                 }
                             ]
                         }
