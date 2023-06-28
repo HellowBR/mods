@@ -72,7 +72,7 @@
                     ]
                 }
             ],
-			"fortnite_wilds": [
+		"fortnite_wilds": [
 				{
                     "group": ""
                 },
@@ -83,7 +83,7 @@
                     "textureRecipes": ""
                 },
                 {
-                    "mapColor": "0a330a"
+                    "mapColor": "00ff00"
                 },
                 {
                     "canCavesCarve": "false"
