@@ -162,27 +162,27 @@
                         {
                             "ore": [
                                 {
-                                    "enabled": "false"
+                                    "enabled": "true"
                                 },
                                 {
-                                    "yMin": ""
+                                    "yMin": "7"
                                 },
                                 {
-                                    "yMax": ""
+                                    "yMax": "120"
                                 },
                                 {
-                                    "veinMin": ""
+                                    "veinMin": "1"
                                 },
                                 {
-                                    "veinMax": ""
+                                    "veinMax": "14"
                                 },
                                 {
-                                    "chance": ""
+                                    "chance": "13"
                                 }
                             ],
                             "blob": [
                                 {
-                                    "enabled": "true"
+                                    "enabled": "false"
                                 },
                                 {
                                     "sizeMin": "2"
