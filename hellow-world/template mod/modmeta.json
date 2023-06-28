@@ -113,7 +113,7 @@
                             ],
                             "blob": [
                                 {
-                                    "enabled": "true"
+                                    "enabled": "false"
                                 },
                                 {
                                     "sizeMin": "2"
@@ -171,13 +171,13 @@
                                     "yMax": "120"
                                 },
                                 {
-                                    "veinMin": "1"
+                                    "veinMin": "16"
                                 },
                                 {
-                                    "veinMax": "14"
+                                    "veinMax": "32"
                                 },
                                 {
-                                    "chance": "13"
+                                    "chance": "100"
                                 }
                             ],
                             "blob": [
