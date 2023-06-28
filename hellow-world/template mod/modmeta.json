@@ -1,5 +1,5 @@
 {
-    "desc": "This mod adds fortnite block... I couldn't think of anything else.",
+    "desc": "This mod adds fortnite blocks... I couldn't think of anything else.",
     "madeForVersion": "0.2.2",
     "tileMeta": [
         {
@@ -152,7 +152,7 @@
                     "textureRecipes": ""
                 },
                 {
-                    "mapColor": "0a330a"
+                    "mapColor": "fa7d00"
                 },
                 {
                     "canCavesCarve": "true"
