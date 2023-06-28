@@ -44,7 +44,7 @@
                             ],
                             "blob": [
                                 {
-                                    "enabled": "true"
+                                    "enabled": "false"
                                 },
                                 {
                                     "sizeMin": "2"
